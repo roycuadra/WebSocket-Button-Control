@@ -7,7 +7,7 @@ The WebSocket Button Control code allows you to control a button wirelessly thro
 
 ## Hardware Requirements
 - ESP8266 microcontroller
-- Button connected to pin D4 (GPIO 2)
+- Relay connected to pin D4 (GPIO 2)
 - Buzzer connected to pin D1 (GPIO 5)
 
 ## Software Dependencies
