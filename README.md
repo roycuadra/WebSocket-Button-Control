@@ -16,3 +16,6 @@ The WebSocket Button Control code allows you to control a button wirelessly thro
 - WebSocketsServer library
 - ESPAsyncTCP library
 - ESPAsyncWebServer library
+
+## License
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
