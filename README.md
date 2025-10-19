@@ -6,6 +6,10 @@ Check this out [Video Demonstration](https://www.dropbox.com/scl/fi/bhwhayw5pzsa
 ## Description
 The WebSocket Button Control code allows you to control a button wirelessly through a web interface served by an ESP8266 microcontroller. It creates a WebSocket server that listens for commands to turn the button on or off. Additionally, it hosts a simple web page with a button interface for user interaction.
 
+## ⚠️ Disclaimer
+
+This project is for educational and experimental purposes only. The creator is not responsible for any damage, injury, or loss caused by using this project. Always handle electronics safely and operate the device in a controlled environment.
+
 ## Hardwares
 - ESP8266 microcontroller
 - Relay connected to pin D4 (GPIO 2)
